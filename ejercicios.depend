@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492743423 source:/media/lan/48B6C4F67E0FD5D4/IPOO/prueba/ejercicios/ejercicios/main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+
